@@ -1,0 +1,81 @@
+# Information About Mini Drones
+*Based on product ID 9 "Mini Drone" from our product database*
+
+## General Information
+Mini drones, also known as Miniature UAVs (Unmanned Aerial Vehicles) or Small UAVs (SUAVs), are aerial vehicles small enough to be man-portable. They range from micro air vehicles (MAVs) that can be carried by infantry to larger models that can be transported and launched like infantry man-portable air-defense systems.
+
+## Classification and Regulations
+Different countries have various definitions for small UAVs based on weight:
+- Canada: Less than 2 kg
+- United States: Less than 25 kg
+- European Union (SESAR): Less than 25 kg
+- United Kingdom (CAA): Less than 20 kg
+
+## Types and Examples
+
+### Micro Air Vehicles (MAVs)
+The smallest class of mini drones, sometimes as small as 5 centimeters. Notable examples include:
+
+- **DelFly Micro**: Developed by TU Delft University in the Netherlands in 2008
+  - Size: 10 centimeters
+  - Weight: 3 grams
+  - Features: Camera-equipped ornithopter (flapping wing aircraft)
+  - Limitations: Battery weight (1 gram) constitutes a third of total weight
+
+- **Harvard University MAV**: 
+  - Size: Just 3 centimeters
+  - Limitation: Power supplied through a wire (not autonomous)
+  - Achievements: Controlled hovering flight (2013), landings and takeoffs from different surfaces (2016)
+
+### Military and Commercial Mini Drones
+
+- **RQ-11 Raven**:
+  - Developed by AeroVironment
+  - Features: 90-minute endurance on rechargeable batteries
+  - Users: US SOCOM, US Army, US Marines, and several other countries
+  - Applications: Combat operations in Afghanistan, Iraq, and other locations
+
+- **Bayraktar Mini UAV**:
+  - Origin: Turkey
+  - Type: Hand-launched, portable UAV system
+  - Design: For harsh geographic and meteorological conditions
+
+- **Aeryon Scout**:
+  - Type: Man-packable quadcopter
+  - Weight: 1.3 kg
+  - Features: Onboard intelligence, all-digital communications, map-based touch-screen control
+  - Endurance: Approximately 20 minutes
+  - Wind resistance: Up to 50 km/h
+  - Payload: Approximately 250 grams
+
+- **T-Hawk MAV**:
+  - Developer: Honeywell (United States)
+  - Type: Ducted fan VTOL (Vertical Take-Off and Landing)
+  - Users: US Army and US Navy Explosive Ordnance Division
+  - Applications: Searching for roadside bombs, target inspection
+  - Notable use: Deployed at Fukushima Daiichi Nuclear Power Plant after the 2011 earthquake and tsunami
+
+## Practical Applications
+Mini drones serve various purposes in different sectors:
+
+### Military and Security
+- Intelligence, surveillance, target acquisition, and reconnaissance (ISTAR)
+- Short-range reconnaissance missions
+- Search for explosive devices
+- Urban security and crime-fighting
+
+### Civilian and Commercial
+- Aerial photography
+- Traffic observation
+- Search and rescue operations (e.g., earthquake victims)
+- Exploration of hazardous environments (e.g., radioactivity-contaminated buildings)
+- Research and academic purposes
+
+### Challenges and Future Development
+- Battery weight and energy consumption limitations
+- Sensor integration (gyroscopes, wind sensors, cameras)
+- Autonomous flight capabilities
+- Size reduction while maintaining functionality
+- Weather resistance and operational conditions
+
+Mini drones continue to evolve rapidly with advances in battery technology, materials science, and miniaturized electronics, making them increasingly versatile tools for both military and civilian applications.

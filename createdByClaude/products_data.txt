@@ -1,0 +1,23 @@
+PRODUCTS CATALOG
+----------------
+ID | Name               | Price
+---+--------------------+--------
+1  | Widget             | $19.99
+2  | Gadget             | $29.99
+3  | Gizmo              | $39.99
+4  | Wireless Earbuds   | $89.99
+5  | Portable Charger   | $24.99
+6  | Bluetooth Speaker  | $79.99
+7  | Phone Stand        | $15.99
+8  | Laptop Sleeve      | $34.99
+9  | Mini Drone         | $299.99
+10 | LED Desk Lamp      | $45.99
+11 | Keyboard           | $129.99
+12 | Mouse Pad          | $12.99
+13 | USB Hub            | $49.99
+14 | Webcam             | $69.99
+15 | Screen Protector   | $9.99
+16 | Travel Adapter     | $27.99
+17 | Gaming Headset     | $159.99
+18 | Fitness Tracker    | $119.99
+19 | Portable SSD       | $179.99
